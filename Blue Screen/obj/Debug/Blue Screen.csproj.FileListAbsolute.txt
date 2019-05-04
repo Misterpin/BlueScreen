@@ -1,0 +1,20 @@
+C:\Users\Student\source\repos\Blue Screen\Blue Screen\bin\Debug\Blue Screen.exe.config
+C:\Users\Student\source\repos\Blue Screen\Blue Screen\bin\Debug\Blue Screen.exe
+C:\Users\Student\source\repos\Blue Screen\Blue Screen\bin\Debug\Blue Screen.pdb
+C:\Users\Student\source\repos\Blue Screen\Blue Screen\obj\Debug\Blue Screen.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Blue Screen\Blue Screen\obj\Debug\Blue_Screen.Form1.resources
+C:\Users\Student\source\repos\Blue Screen\Blue Screen\obj\Debug\Blue_Screen.Properties.Resources.resources
+C:\Users\Student\source\repos\Blue Screen\Blue Screen\obj\Debug\Blue Screen.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Blue Screen\Blue Screen\obj\Debug\Blue Screen.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Blue Screen\Blue Screen\obj\Debug\Blue Screen.exe
+C:\Users\Student\source\repos\Blue Screen\Blue Screen\obj\Debug\Blue Screen.pdb
+C:\Users\Asus\source\repos\Blue Screen\Blue Screen\bin\Debug\Blue Screen.exe.config
+C:\Users\Asus\source\repos\Blue Screen\Blue Screen\bin\Debug\Blue Screen.exe
+C:\Users\Asus\source\repos\Blue Screen\Blue Screen\bin\Debug\Blue Screen.pdb
+C:\Users\Asus\source\repos\Blue Screen\Blue Screen\obj\Debug\Blue Screen.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Blue Screen\Blue Screen\obj\Debug\Blue_Screen.Form1.resources
+C:\Users\Asus\source\repos\Blue Screen\Blue Screen\obj\Debug\Blue_Screen.Properties.Resources.resources
+C:\Users\Asus\source\repos\Blue Screen\Blue Screen\obj\Debug\Blue Screen.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Blue Screen\Blue Screen\obj\Debug\Blue Screen.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Blue Screen\Blue Screen\obj\Debug\Blue Screen.exe
+C:\Users\Asus\source\repos\Blue Screen\Blue Screen\obj\Debug\Blue Screen.pdb
